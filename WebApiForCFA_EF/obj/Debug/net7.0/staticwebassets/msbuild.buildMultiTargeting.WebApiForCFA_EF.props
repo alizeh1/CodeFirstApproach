@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebApiForCFA_EF.props" />
+</Project>
